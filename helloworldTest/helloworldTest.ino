@@ -7,4 +7,6 @@ void loop() {
   // put your main code here, to run repeatedly:
   delay(1000);
   Serial.println("hello");
+  delay(1000);
+  Serial.println("adding/contribute test")
 }

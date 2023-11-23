@@ -11,4 +11,6 @@ void loop() {
   Serial.println("hello");
   delay(1000);
   Serial.println("adding/contribute test")
+
+  Serial.println("newwest clone commit and merge");
 }

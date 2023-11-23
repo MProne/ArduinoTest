@@ -6,8 +6,10 @@ void setup() {
     Serial.println(i);
     delay(1000);
   }
+  Serial.println("new commit and merge");
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
+
 }
